@@ -63,7 +63,15 @@ The shell program presents a prompt symbol `$` on the screen, indicating that it
 - **Environment Variables:** Users can define environment variables and use them in the shell program as regular commands. These variables affect the shell's behavior during runtime.
 
 ### Examples
-![image](https://github.com/yeela8g/shell-implementation/assets/118124478/8e7a07f5-d90f-4023-96f5-230b84dd01a7)
+![image](https://github.com/yeela8g/shell-implementation/assets/118124478/0a27da78-bcd1-4b31-9954-84fd455db32a) ![image](https://github.com/yeela8g/shell-implementation/assets/118124478/d393bf90-d8f1-452a-99e5-d714e470f507)
+
+
+
+![image](https://github.com/yeela8g/shell-implementation/assets/118124478/de95ea81-71cd-4492-9d0e-f215b2ff1fae)
+
+
+
+
 
 
 This shell implementation prioritizes robust error handling, modular code organization, and efficient command execution. Error reporting ensures transparency during system calls, while modular code enhances readability and maintainability. Command execution in separate processes maximizes performance. The shell offers an intuitive user experience with built-in commands as well as support for defining and using environment variables and provides a reliable, efficient, and user-friendly environment for executing Linux commands.
